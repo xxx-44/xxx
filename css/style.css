@@ -4,7 +4,8 @@ html {
 }
 
 body {
-  font-family: "Yu Gohtic Medium", "游ゴシック Medium", YuGothic, "游ゴシック体", "ヒラギノ角ゴ Pro W3", sans-serif;
+  font-family: "Yu Gohtic Medium", "游ゴシック Medium", YuGothic, "游ゴシック体",
+ "ヒラギノ角ゴ Pro W3", sans-serif;
   line-height: 1.7;
   color: #bbb;
 }
@@ -595,7 +596,7 @@ footer {
   }
   .a-time {
     font-size: 1rem;
-    top: 25%;
+    top: 15%;
     left: 2%;
   }
   .a-new {
